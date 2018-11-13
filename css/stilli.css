@@ -1,0 +1,41 @@
+#finan{
+      		background:url(../img/background-02-1920x809.jpg) no-repeat center center;
+        	background-size:cover;
+        	background-attachment:fixed;
+        	height: 300px;
+          .container-fluid{
+          	.row{
+          		.col-12{
+          			h1{
+          				font-weight:700;
+          				margin-top:10px;
+          			text-align: center;
+          			display: block;
+          			color:white;
+          			font-size: 6em;
+          		}
+          		.yaz{
+          		
+          			margin-left:600px;
+          			display: inline-block;
+          			text-align: center;
+          			color:white;
+        			
+        				&:hover{
+        					text-decoration: underline;
+              				}
+              			  		}
+
+                  		}	
+                  	}
+                  }
+}
+#qaqa{
+    .container{
+      .row{
+        .col-4{
+          color: red;
+        }
+      }
+    }
+}
